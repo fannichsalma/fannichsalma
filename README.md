@@ -50,22 +50,26 @@
 - **Description**: Developed an Exam Management System using Java EE to optimize exam administration. Features include scheduling exams, managing classroom reservations, and overseeing exam logistics.
 - **Demo**: [GitHub Repository](https://github.com/fannichsalma/Exam-management/tree/main)
 
-
 ## 🌐 Connect with Me
-- **LinkedIn**: [Fannich Salma](www.linkedin.com/in/salma-fannich)
-- **Email**:(salma.fannich123@gmail.com)
+- **LinkedIn**: [Fannich Salma](https://www.linkedin.com/in/salma-fannich)
+- **Email**: [salma.fannich123@gmail.com](mailto:salma.fannich123@gmail.com)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VotreNomUtilisateur&label=Profile%20views&color=0e75b6&style=flat" alt="VotreNomUtilisateur" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fannichsalma&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fannichsalma&label=Profile%20views&color=0e75b6&style=flat" alt="fannichsalma" /> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fannichsalma&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fannichsalma&show_icons=true&locale=en&layout=compact" alt="fannichsalma" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fannichsalma&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fannichsalma&show_icons=true&locale=en" alt="fannichsalma" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fannichsalma&" alt="fannichsalma" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fannichsalma&" alt="Streak Stats" />
+</p>
 
 ---
 
 Feel free to reach out if you have any questions or collaboration opportunities!
-
